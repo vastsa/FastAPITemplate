@@ -1,0 +1,6 @@
+DBType = 'sqlite'
+Host = ''
+UserName = ''
+Password = ''
+Port = ''
+DataBase = 'FastApiDB'
